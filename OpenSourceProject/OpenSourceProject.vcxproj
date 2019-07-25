@@ -23,6 +23,7 @@
     <ProjectGuid>{D96ED9CA-E804-49CC-9281-64FDF2CC1EDD}</ProjectGuid>
     <RootNamespace>OpenSourceProject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>OpenSourceProject_20190718</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

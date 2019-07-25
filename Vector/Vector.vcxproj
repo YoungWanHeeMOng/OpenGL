@@ -23,6 +23,7 @@
     <ProjectGuid>{F64FE640-61A4-4BB4-9E8B-A6C38B4E1F99}</ProjectGuid>
     <RootNamespace>Vector</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Vector_20190723</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

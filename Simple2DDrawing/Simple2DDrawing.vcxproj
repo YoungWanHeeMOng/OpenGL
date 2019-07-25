@@ -23,6 +23,7 @@
     <ProjectGuid>{3F547F82-E3FE-43B8-AAA1-A896C8FF6B8D}</ProjectGuid>
     <RootNamespace>Simple2DDrawing</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Simple2DDrawing_20190718</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

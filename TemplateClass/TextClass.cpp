@@ -1,0 +1,6 @@
+
+#include "TestClass.h"
+
+template class TestClass<int>;
+template class TestClass<float>;
+templ

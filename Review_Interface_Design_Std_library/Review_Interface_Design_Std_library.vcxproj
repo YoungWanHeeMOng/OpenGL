@@ -23,6 +23,7 @@
     <ProjectGuid>{CD0F9ECB-9DEE-446B-9725-D89338C9876B}</ProjectGuid>
     <RootNamespace>ReviewInterfaceDesignStdlibrary</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Review_Interface_Design_Std_library_20190722</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

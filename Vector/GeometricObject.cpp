@@ -1,5 +1,5 @@
 #include "GeometricObject.h"
-#include <string>
+//#include <string>
 #include "Box.h"
 #include "Circle.h"
 
@@ -16,6 +16,6 @@
 		 return new Box;
 	 else if (name == "Circle")
 		 return new Circle;
-
+	 else
 	 return nullptr;
  }
